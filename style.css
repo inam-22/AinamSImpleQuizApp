@@ -1,0 +1,31 @@
+body{
+     
+    background-image: linear-gradient(to left ,#00FFFF,#993366); 
+}   
+
+
+h1{
+    text-align: center;
+    font-weight: 400px;
+    color:wheat;
+    text-shadow:#993366 4px 4px 6px ;
+}
+fieldset{
+    border-radius: 20px;
+    border-color:grey;
+}
+.btn{
+    margin-left: 730px;
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: 600;
+    border-radius: 20px;
+    color:wheat;
+    background-image: linear-gradient(to top ,#00FFFF,#993366); 
+    width: 120px;
+    height: 60px; 
+}
+.fs{
+    font-size: x-large;
+    color: wheat;
+}
